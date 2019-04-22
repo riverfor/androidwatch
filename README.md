@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Android WATCH
 
 You can use the [editor on GitHub](https://github.com/riverfor/androidwatch/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
